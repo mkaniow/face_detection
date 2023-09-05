@@ -10,8 +10,6 @@ What was used:
         - 100 images from the internet (manually classified with 'labelme')
         - data pipeline to create X times more input images (albumentations was used)
 
-
-
 ## Acknowledgements
 
  - [VGG16 with keras](https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c)
@@ -52,10 +50,13 @@ To launch the project type command
 ```
 python main.py
 ```
+
+If there is a problem with opencv lib, try deactivate your antivirus (and run everything once again)
+
 ## Controls
 
 To shut down webcam just press 'q'.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+https://github.com/mkaniow/face_detection/assets/117663140/59280080-1ec3-4a41-8aab-0fb51a244285
