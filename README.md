@@ -3,12 +3,12 @@
 This project was made to learn and practice some machine learning, data procesing and data pipelines. 
 
 What was used:
-    - model:
-        - keras
-        - VGG16 (pre trained nn model to detect objects)
-    - dataset:
-        - 100 images from the internet (manually classified with 'labelme')
-        - data pipeline to create X times more input images (albumentations was used)
+- model:
+  - keras
+  - VGG16 (pre trained nn model to detect objects)
+- dataset:
+  - 100 images from the internet (manually classified with 'labelme')
+  - data pipeline to create X times more input images (albumentations was used)
 
 ## Acknowledgements
 
